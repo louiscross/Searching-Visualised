@@ -2,7 +2,7 @@
 
 > **Note**: This is a work in progress. Not all features are currently integrated, and existing features are being improved as development continues. The project is being actively developed and updated.
 
-> **Repository Status**: While this project builds upon my capstone work, which has received verbal approval for publication, this repository will remain private for security purposes. I'm open to collaboration and welcome discussions about potential improvements or contributions.
+> **Repository Status**: While this project is inspired from my capstone work, which has received verbal approval for publication, this repository will remain private for security purposes. I'm open to collaboration and welcome discussions about potential improvements or contributions.
 
 A refined and enhanced visualization tool for understanding graph search algorithms, building upon my previous capstone project. This version focuses on providing a more robust and educational experience for learning about pathfinding algorithms.
 
