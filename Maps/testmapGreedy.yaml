@@ -1,0 +1,74 @@
+- Node Name: A
+  X Coordinate: 379
+  Y Coordinate: 588
+  Adjacencies:
+    - Node: O
+      Weight: 146
+    - Node: S
+      Weight: 140
+    - Node: C
+      Weight: 494
+- Node Name: O
+  X Coordinate: 567
+  Y Coordinate: 466
+  Adjacencies:
+    - Node: A
+      Weight: 146
+    - Node: S
+      Weight: 151
+- Node Name: S
+  X Coordinate: 682
+  Y Coordinate: 568
+  Adjacencies:
+    - Node: A
+      Weight: 140
+    - Node: O
+      Weight: 151
+    - Node: F
+      Weight: 99
+    - Node: R
+      Weight: 80
+- Node Name: F
+  X Coordinate: 859
+  Y Coordinate: 431
+  Adjacencies:
+    - Node: S
+      Weight: 99
+    - Node: B
+      Weight: 211
+- Node Name: B
+  X Coordinate: 991
+  Y Coordinate: 516
+  Adjacencies:
+    - Node: F
+      Weight: 211
+    - Node: P
+      Weight: 101
+- Node Name: P
+  X Coordinate: 937
+  Y Coordinate: 681
+  Adjacencies:
+    - Node: B
+      Weight: 101
+    - Node: R
+      Weight: 97
+- Node Name: R
+  X Coordinate: 779
+  Y Coordinate: 580
+  Adjacencies:
+    - Node: P
+      Weight: 97
+    - Node: S
+      Weight: 80
+    - Node: C
+      Weight: 146
+- Node Name: C
+  X Coordinate: 551
+  Y Coordinate: 696
+  Adjacencies:
+    - Node: P
+      Weight: 138
+    - Node: R
+      Weight: 146
+    - Node: A
+      Weight: 494

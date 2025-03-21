@@ -1,0 +1,164 @@
+- Node Name: A
+  X Coordinate: 400
+  Y Coordinate: 300
+  Adjacencies:
+    - Node: B
+      Weight: 3
+    - Node: C
+      Weight: 5
+    - Node: D
+      Weight: 2
+    - Node: E
+      Weight: 4
+    - Node: F
+      Weight: 6
+- Node Name: B
+  X Coordinate: 600
+  Y Coordinate: 300
+  Adjacencies:
+    - Node: A
+      Weight: 3
+    - Node: C
+      Weight: 4
+    - Node: G
+      Weight: 2
+- Node Name: C
+  X Coordinate: 800
+  Y Coordinate: 300
+  Adjacencies:
+    - Node: A
+      Weight: 5
+    - Node: B
+      Weight: 4
+    - Node: D
+      Weight: 1
+    - Node: H
+      Weight: 3
+- Node Name: D
+  X Coordinate: 400
+  Y Coordinate: 500
+  Adjacencies:
+    - Node: A
+      Weight: 2
+    - Node: C
+      Weight: 1
+    - Node: I
+      Weight: 5
+- Node Name: E
+  X Coordinate: 600
+  Y Coordinate: 500
+  Adjacencies:
+    - Node: A
+      Weight: 4
+    - Node: F
+      Weight: 3
+    - Node: J
+      Weight: 2
+- Node Name: F
+  X Coordinate: 800
+  Y Coordinate: 500
+  Adjacencies:
+    - Node: A
+      Weight: 6
+    - Node: E
+      Weight: 3
+    - Node: K
+      Weight: 4
+- Node Name: G
+  X Coordinate: 600
+  Y Coordinate: 700
+  Adjacencies:
+    - Node: B
+      Weight: 2
+    - Node: H
+      Weight: 1
+    - Node: L
+      Weight: 3
+- Node Name: H
+  X Coordinate: 800
+  Y Coordinate: 700
+  Adjacencies:
+    - Node: C
+      Weight: 3
+    - Node: G
+      Weight: 1
+    - Node: I
+      Weight: 2
+    - Node: M
+      Weight: 4
+- Node Name: I
+  X Coordinate: 400
+  Y Coordinate: 900
+  Adjacencies:
+    - Node: D
+      Weight: 5
+    - Node: H
+      Weight: 2
+    - Node: N
+      Weight: 1
+- Node Name: J
+  X Coordinate: 600
+  Y Coordinate: 900
+  Adjacencies:
+    - Node: E
+      Weight: 2
+    - Node: K
+      Weight: 1
+    - Node: O
+      Weight: 3
+- Node Name: K
+  X Coordinate: 800
+  Y Coordinate: 900
+  Adjacencies:
+    - Node: F
+      Weight: 4
+    - Node: J
+      Weight: 1
+    - Node: P
+      Weight: 2
+- Node Name: L
+  X Coordinate: 600
+  Y Coordinate: 1100
+  Adjacencies:
+    - Node: G
+      Weight: 3
+    - Node: M
+      Weight: 2
+- Node Name: M
+  X Coordinate: 800
+  Y Coordinate: 1100
+  Adjacencies:
+    - Node: H
+      Weight: 4
+    - Node: L
+      Weight: 2
+    - Node: N
+      Weight: 1
+- Node Name: N
+  X Coordinate: 400
+  Y Coordinate: 1300
+  Adjacencies:
+    - Node: I
+      Weight: 1
+    - Node: M
+      Weight: 1
+    - Node: O
+      Weight: 2
+- Node Name: O
+  X Coordinate: 600
+  Y Coordinate: 1300
+  Adjacencies:
+    - Node: J
+      Weight: 3
+    - Node: N
+      Weight: 2
+    - Node: P
+      Weight: 4
+- Node Name: P
+  X Coordinate: 800
+  Y Coordinate: 1300
+  Adjacencies:
+    - Node: K
+      Weight: 2
+    - Node: O
+      Weight: 4
