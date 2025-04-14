@@ -1,7 +1,11 @@
 # Search Algorithm Visualization
 ![image](https://github.com/user-attachments/assets/d82eeb5a-da47-48de-a939-3d7a16d05388)
 
-https://github.com/user-attachments/assets/49c56092-6911-4e9c-8b4c-1c297d960846
+
+
+https://github.com/user-attachments/assets/d38b7dea-d627-4e40-9ea2-f19072805336
+
+
 
 
 
