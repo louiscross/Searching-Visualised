@@ -1,4 +1,9 @@
 # Search Algorithm Visualization
+![image](https://github.com/user-attachments/assets/d82eeb5a-da47-48de-a939-3d7a16d05388)
+
+https://github.com/user-attachments/assets/49c56092-6911-4e9c-8b4c-1c297d960846
+
+
 
 > **Note**: This is a work in progress. Not all features are currently integrated, and existing features are being improved as development continues. The project is being actively developed and updated.
 
